@@ -1,0 +1,17 @@
+"Sequence","Auction Model","Feature","Former Security Level","Adapted Security Level","Preferred Price","Selling Price","Could SP Profit","Comission"
+"1032488965","Anonymity","Low","Medium","English",51.640000,43.760000,30.430000,2.200000
+"1032488965","Integrity","Low","High","English",103.280000,87.530000,60.860000,4.400000
+"282140442","Integrity","Low","High","English",88.080000,71.610000,51.610000,3.600000
+"282140442","Confidentiality","Low","High","English",88.080000,71.610000,51.610000,3.600000
+"1270831507","Availability","Low","Medium","English",61.020000,54.000000,34.000000,2.700000
+"1270831507","Confidentiality","Low","Medium","English",61.020000,54.000000,34.000000,2.700000
+"951334678","Integrity","Low","Medium","English",69.550000,55.200000,35.200000,2.750000
+"951334678","Confidentiality","Low","Medium","English",69.550000,55.200000,35.200000,2.750000
+"1473838140","Availability","Low","Medium","Posted Offer  ",64.770000,55.360000,35.360000,2.750000
+"1473838140","Integrity","Low","Medium","Posted Offer  ",64.770000,55.360000,35.360000,2.750000
+"322708550","Anonymity","Low","Medium","Posted Offer  ",64.220000,55.360000,35.360000,2.750000
+"322708550","Integrity","Low","Medium","Posted Offer  ",64.220000,55.360000,35.360000,2.750000
+"1085431610","Availability","Low","Medium","Posted Offer  ",47.800000,43.070000,29.730000,2.170000
+"1085431610","Integrity","Low","High","Posted Offer  ",95.610000,86.130000,59.470000,4.330000
+"975096498","Integrity","Low","High","Posted Offer  ",88.270000,76.760000,50.090000,3.870000
+"975096498","Confidentiality","Low","Medium","Posted Offer  ",44.140000,38.380000,25.050000,1.930000

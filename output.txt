@@ -1,0 +1,281 @@
+*********** BEGIN A NEW AUCTION (bids=7, asks=71) ***********
+*********** BEGIN A NEW AUCTION (bids=4, asks=106) ***********
+*********** BEGIN A NEW AUCTION (bids=7, asks=171) ***********
+*********** BEGIN A NEW AUCTION (bids=2, asks=243) ***********
+
+
+
+AUCTION # 01
+
+Number of bids: 7
+Number of auction asks: 71
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+************************************************************************************************************************************    BEGIN AUCTION # 001    ************************************************************************************************************************************
+       Features    Asset            Former Security Level    Adapted Security Level    Service(s)                        Service Provider    Data Rate    CPU                     Memory    Disk Space    User MaxPrice    Selling Price    Cloud SP Profit    F. Coordinator Commission    Auction Model
+==================================================================================================================================================================================================================================================================================================
+   Availability    --               Low                      --                        --                                --                  --           --                      --        --                       --               --                 --                           --    English      
+      Anonymity    University ID    Low                      Medium                    Usage of Psuedonyms               AnonymityShield     --           23 CPU core @ 2.1Ghz    --        --                  $ 51.64          $ 43.76            $ 30.43                        $ 2.2    English      
+      Integrity    University ID    Low                      High                      Identity aware fraud detection    TrueEncryption      --           --                      --        --                 $ 103.28          $ 87.53            $ 60.86                        $ 4.4    English      
+Confidentiality    --               Low                      --                        --                                --                  --           --                      --        --                       --               --                 --                           --    English      
+*************************************************************************************************************************************    END AUCTION # 001   *************************************************************************************************************************************
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    Service Provider                           Available Resources (after allocation)
+                               Data Rate            CPU                    Memory          Disk Space
+=========================================================================================================
+AnonymityShield               49 mbits/s      24 CPU core @ 2.1Ghz       11632 Mbyte    14627 Gbyte
+ConfEnforcer                  22 mbits/s      66 CPU core @ 2.1Ghz       16993 Mbyte    13706 Gbyte
+TrueEncryption                75 mbits/s      22 CPU core @ 2.1Ghz       15620 Mbyte    18094 Gbyte
+365Availability               62 mbits/s      54 CPU core @ 2.1Ghz       11203 Mbyte    13045 Gbyte
+=========================================================================================================
+****Resources Leased between Service Providers:****
+N/A
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+AUCTION # 02
+
+Number of bids: 4
+Number of auction asks: 106
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+*******************************************************************************************************************************************************    BEGIN AUCTION # 001    *******************************************************************************************************************************************************
+       Features    Asset                   Former Security Level    Adapted Security Level    Service(s)                                                 Service Provider    Data Rate    CPU                     Memory           Disk Space    User MaxPrice    Selling Price    Cloud SP Profit    F. Coordinator Commission    Auction Model
+==========================================================================================================================================================================================================================================================================================================================================
+   Availability    --                      Low                      --                        --                                                         --                  --           --                      --               --                       --               --                 --                           --    English      
+      Anonymity    --                      Low                      --                        --                                                         --                  --           --                      --               --                       --               --                 --                           --    English      
+      Integrity    Identity Information    Low                      High                      Identity aware fraud detection                             TrueEncryption      --           --                      --               --                  $ 88.08          $ 71.61            $ 51.61                        $ 3.6    English      
+Confidentiality    University ID           Low                      High                      Encryption at transit with keys concealed from cloud sp    ConfEnforcer        --           10 CPU core @ 2.1Ghz    3052544 Mbyte    --                  $ 88.08          $ 71.61            $ 51.61                        $ 3.6    English      
+*********************************************************************************************************************************************************    END AUCTION # 001   *********************************************************************************************************************************************************
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    Service Provider                           Available Resources (after allocation)
+                               Data Rate            CPU                    Memory          Disk Space
+=========================================================================================================
+AnonymityShield               49 mbits/s      24 CPU core @ 2.1Ghz       11632 Mbyte    14627 Gbyte
+ConfEnforcer                  22 mbits/s      56 CPU core @ 2.1Ghz       16993 Mbyte    13706 Gbyte
+TrueEncryption                75 mbits/s      22 CPU core @ 2.1Ghz       15620 Mbyte    18094 Gbyte
+365Availability               62 mbits/s      54 CPU core @ 2.1Ghz       11203 Mbyte    13045 Gbyte
+=========================================================================================================
+****Resources Leased between Service Providers:****
+N/A
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+AUCTION # 03
+
+Number of bids: 7
+Number of auction asks: 171
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+****************************************************************************************************************************************************    BEGIN AUCTION # 001    ****************************************************************************************************************************************************
+       Features    Asset            Former Security Level    Adapted Security Level    Service(s)                                                 Service Provider    Data Rate    CPU                     Memory           Disk Space    User MaxPrice    Selling Price    Cloud SP Profit    F. Coordinator Commission    Auction Model
+==================================================================================================================================================================================================================================================================================================================================
+   Availability    University ID    Low                      Medium                    Mirrored VMs in different physical servers                 365Availability     --           12 CPU core @ 2.1Ghz    4973568 Mbyte    6 Gbyte             $ 61.02           $ 54.0             $ 34.0                        $ 2.7    English      
+      Anonymity    --               Low                      --                        --                                                         --                  --           --                      --               --                       --               --                 --                           --    English      
+      Integrity    --               Low                      --                        --                                                         --                  --           --                      --               --                       --               --                 --                           --    English      
+Confidentiality    University ID    Low                      Medium                    Encryption at transit with keys concealed from cloud sp    ConfEnforcer        --           23 CPU core @ 2.1Ghz    4435456 Mbyte    --                  $ 61.02           $ 54.0             $ 34.0                        $ 2.7    English      
+*****************************************************************************************************************************************************    END AUCTION # 001   *****************************************************************************************************************************************************
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    Service Provider                           Available Resources (after allocation)
+                               Data Rate            CPU                    Memory          Disk Space
+=========================================================================================================
+AnonymityShield               49 mbits/s      24 CPU core @ 2.1Ghz       11632 Mbyte    14627 Gbyte
+ConfEnforcer                  22 mbits/s      33 CPU core @ 2.1Ghz       16993 Mbyte    13706 Gbyte
+TrueEncryption                75 mbits/s      22 CPU core @ 2.1Ghz       15620 Mbyte    18094 Gbyte
+365Availability               62 mbits/s      42 CPU core @ 2.1Ghz       11203 Mbyte    13039 Gbyte
+=========================================================================================================
+****Resources Leased between Service Providers:****
+N/A
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+AUCTION # 04
+
+Number of bids: 2
+Number of auction asks: 243
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  OPEN  OUTCRY  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+*************************************************************************************************************************************************    BEGIN AUCTION # 001    *************************************************************************************************************************************************
+       Features    Asset            Former Security Level    Adapted Security Level    Service(s)                                            Service Provider    Data Rate    CPU                     Memory           Disk Space    User MaxPrice    Selling Price    Cloud SP Profit    F. Coordinator Commission    Auction Model
+==============================================================================================================================================================================================================================================================================================================================
+   Availability    --               Low                      --                        --                                                    --                  --           --                      --               --                       --               --                 --                           --    English      
+      Anonymity    --               Low                      --                        --                                                    --                  --           --                      --               --                       --               --                 --                           --    English      
+      Integrity    Company ID       Low                      Medium                    Massage authentication code (MAC)                     TrueEncryption      --           7 CPU core @ 2.1Ghz     512 Mbyte        --                  $ 69.55           $ 55.2             $ 35.2                       $ 2.75    English      
+Confidentiality    University ID    Low                      Medium                    Permanent Deletion of identity related information    ConfEnforcer        --           22 CPU core @ 2.1Ghz    3962368 Mbyte    --                  $ 69.55           $ 55.2             $ 35.2                       $ 2.75    English      
+***************************************************************************************************************************************************    END AUCTION # 001   ***************************************************************************************************************************************************
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    Service Provider                           Available Resources (after allocation)
+                               Data Rate            CPU                    Memory          Disk Space
+=========================================================================================================
+AnonymityShield               49 mbits/s      24 CPU core @ 2.1Ghz       11632 Mbyte    14627 Gbyte
+ConfEnforcer                  22 mbits/s      11 CPU core @ 2.1Ghz       16993 Mbyte    13706 Gbyte
+TrueEncryption                75 mbits/s      15 CPU core @ 2.1Ghz       15108 Mbyte    18094 Gbyte
+365Availability               62 mbits/s      42 CPU core @ 2.1Ghz       11203 Mbyte    13039 Gbyte
+=========================================================================================================
+****Resources Leased between Service Providers:****
+N/A
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
++++++ END +++++
++++++ 4 AUCTIONS +++++
+
+*** Ready for new task ***
+*********** BEGIN A NEW AUCTION (bids=4, asks=25) ***********
+*********** BEGIN A NEW AUCTION (bids=9, asks=55) ***********
+*********** BEGIN A NEW AUCTION (bids=6, asks=74) ***********
+*********** BEGIN A NEW AUCTION (bids=1, asks=81) ***********
+
+
+
+AUCTION # 01
+
+Number of bids: 4
+Number of auction asks: 25
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+**********************************************************************************************************************************************    BEGIN AUCTION # 001    **********************************************************************************************************************************************
+       Features    Asset            Former Security Level    Adapted Security Level    Service(s)                                    Service Provider    Data Rate    CPU                     Memory           Disk Space    User MaxPrice    Selling Price    Cloud SP Profit    F. Coordinator Commission    Auction Model 
+======================================================================================================================================================================================================================================================================================================================
+   Availability    University ID    Low                      Medium                    Mirrored VMs in different physical servers    365Availability     --           19 CPU core @ 2.1Ghz    2832384 Mbyte    7 Gbyte             $ 64.77          $ 55.36            $ 35.36                       $ 2.75    Posted Offer  
+      Anonymity    --               Low                      --                        --                                            --                  --           --                      --               --                       --               --                 --                           --    Posted Offer  
+      Integrity    University ID    Low                      Medium                    Massage authentication code (MAC)             TrueEncryption      --           9 CPU core @ 2.1Ghz     512 Mbyte        --                  $ 64.77          $ 55.36            $ 35.36                       $ 2.75    Posted Offer  
+Confidentiality    --               Low                      --                        --                                            --                  --           --                      --               --                       --               --                 --                           --    Posted Offer  
+***********************************************************************************************************************************************    END AUCTION # 001   ***********************************************************************************************************************************************
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    Service Provider                           Available Resources (after allocation)
+                               Data Rate            CPU                    Memory          Disk Space
+=========================================================================================================
+AnonymityShield               71 mbits/s      66 CPU core @ 2.1Ghz       11227 Mbyte    17248 Gbyte
+ConfEnforcer                  24 mbits/s      21 CPU core @ 2.1Ghz       12694 Mbyte    12354 Gbyte
+TrueEncryption                24 mbits/s      23 CPU core @ 2.1Ghz       16160 Mbyte    17265 Gbyte
+365Availability               77 mbits/s      19 CPU core @ 2.1Ghz       12451 Mbyte    20335 Gbyte
+=========================================================================================================
+****Resources Leased between Service Providers:****
+N/A
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+AUCTION # 02
+
+Number of bids: 9
+Number of auction asks: 55
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+***************************************************************************************************************************************    BEGIN AUCTION # 001    ***************************************************************************************************************************************
+       Features    Asset            Former Security Level    Adapted Security Level    Service(s)                           Service Provider    Data Rate    CPU                     Memory       Disk Space    User MaxPrice    Selling Price    Cloud SP Profit    F. Coordinator Commission    Auction Model 
+==========================================================================================================================================================================================================================================================================================================
+   Availability    --               Low                      --                        --                                   --                  --           --                      --           --                       --               --                 --                           --    Posted Offer  
+      Anonymity    University ID    Low                      Medium                    Usage of Psuedonyms                  AnonymityShield     --           23 CPU core @ 2.1Ghz    --           --                  $ 64.22          $ 55.36            $ 35.36                       $ 2.75    Posted Offer  
+      Integrity    Company ID       Low                      Medium                    Massage authentication code (MAC)    TrueEncryption      --           14 CPU core @ 2.1Ghz    512 Mbyte    --                  $ 64.22          $ 55.36            $ 35.36                       $ 2.75    Posted Offer  
+Confidentiality    --               Low                      --                        --                                   --                  --           --                      --           --                       --               --                 --                           --    Posted Offer  
+*****************************************************************************************************************************************    END AUCTION # 001   *****************************************************************************************************************************************
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    Service Provider                           Available Resources (after allocation)
+                               Data Rate            CPU                    Memory          Disk Space
+=========================================================================================================
+AnonymityShield               71 mbits/s      43 CPU core @ 2.1Ghz       11227 Mbyte    17248 Gbyte
+ConfEnforcer                  24 mbits/s      21 CPU core @ 2.1Ghz       12694 Mbyte    12354 Gbyte
+TrueEncryption                24 mbits/s       9 CPU core @ 2.1Ghz       15648 Mbyte    17265 Gbyte
+365Availability               77 mbits/s      19 CPU core @ 2.1Ghz       12451 Mbyte    20335 Gbyte
+=========================================================================================================
+****Resources Leased between Service Providers:****
+N/A
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+AUCTION # 03
+
+Number of bids: 6
+Number of auction asks: 74
+BORROWING CPU from AnonymityShield
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+*******************************************************************************************************************************************    BEGIN AUCTION # 001    *******************************************************************************************************************************************
+       Features    Asset                   Former Security Level    Adapted Security Level    Service(s)                        Service Provider    Data Rate    CPU                     Memory           Disk Space    User MaxPrice    Selling Price    Cloud SP Profit    F. Coordinator Commission    Auction Model 
+==================================================================================================================================================================================================================================================================================================================
+   Availability    Identity Information    Low                      Medium                    Raid2-data backup                 365Availability     --           23 CPU core @ 2.1Ghz    2929152 Mbyte    25 Gbyte             $ 47.8          $ 43.07            $ 29.73                       $ 2.17    Posted Offer  
+      Anonymity    --                      Low                      --                        --                                --                  --           --                      --               --                       --               --                 --                           --    Posted Offer  
+      Integrity    Identity Information    Low                      High                      Identity aware fraud detection    TrueEncryption      --           --                      --               --                  $ 95.61          $ 86.13            $ 59.47                       $ 4.33    Posted Offer  
+Confidentiality    --                      Low                      --                        --                                --                  --           --                      --               --                       --               --                 --                           --    Posted Offer  
+*********************************************************************************************************************************************    END AUCTION # 001   *********************************************************************************************************************************************
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    Service Provider                           Available Resources (after allocation)
+                               Data Rate            CPU                    Memory          Disk Space
+=========================================================================================================
+AnonymityShield               71 mbits/s      20 CPU core @ 2.1Ghz       11227 Mbyte    17248 Gbyte
+ConfEnforcer                  24 mbits/s      21 CPU core @ 2.1Ghz       12694 Mbyte    12354 Gbyte
+TrueEncryption                24 mbits/s       9 CPU core @ 2.1Ghz       15648 Mbyte    17265 Gbyte
+365Availability               77 mbits/s      19 CPU core @ 2.1Ghz       12451 Mbyte    20310 Gbyte
+=========================================================================================================
+****Resources Leased between Service Providers:****
+365Availability leased 23 CPU core @ 2.1Ghz from AnonymityShield
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+AUCTION # 04
+
+Number of bids: 1
+Number of auction asks: 81
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  POSTED OFFER  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+*****************************************************************************************************************************************************    BEGIN AUCTION # 001    *****************************************************************************************************************************************************
+       Features    Asset                   Former Security Level    Adapted Security Level    Service(s)                                            Service Provider    Data Rate    CPU                     Memory           Disk Space    User MaxPrice    Selling Price    Cloud SP Profit    F. Coordinator Commission    Auction Model 
+======================================================================================================================================================================================================================================================================================================================================
+   Availability    --                      Low                      --                        --                                                    --                  --           --                      --               --                       --               --                 --                           --    Posted Offer  
+      Anonymity    --                      Low                      --                        --                                                    --                  --           --                      --               --                       --               --                 --                           --    Posted Offer  
+      Integrity    Identity Information    Low                      High                      Massage authentication code (MAC)                     TrueEncryption      --           6 CPU core @ 2.1Ghz     512 Mbyte        --                  $ 88.27          $ 76.76            $ 50.09                       $ 3.87    Posted Offer  
+Confidentiality    Identity Information    Low                      Medium                    Permanent Deletion of identity related information    ConfEnforcer        --           21 CPU core @ 2.1Ghz    2605568 Mbyte    --                  $ 44.14          $ 38.38            $ 25.05                       $ 1.93    Posted Offer  
+*******************************************************************************************************************************************************    END AUCTION # 001   *******************************************************************************************************************************************************
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    Service Provider                           Available Resources (after allocation)
+                               Data Rate            CPU                    Memory          Disk Space
+=========================================================================================================
+AnonymityShield               71 mbits/s      20 CPU core @ 2.1Ghz       11227 Mbyte    17248 Gbyte
+ConfEnforcer                  24 mbits/s       0 CPU core @ 2.1Ghz       12694 Mbyte    12354 Gbyte
+TrueEncryption                24 mbits/s       3 CPU core @ 2.1Ghz       15136 Mbyte    17265 Gbyte
+365Availability               77 mbits/s      19 CPU core @ 2.1Ghz       12451 Mbyte    20310 Gbyte
+=========================================================================================================
+****Resources Leased between Service Providers:****
+N/A
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
++++++ END +++++
++++++ 4 AUCTIONS +++++
